@@ -1,0 +1,8 @@
+{
+    "aws_access_key": "",
+    "aws_secret_key": "",
+    "region": "us-east-2",
+    "sync_folder": "D:/Videos",
+    "bucket_name": "zugaarchive",
+    "aws_profile": ""
+}
